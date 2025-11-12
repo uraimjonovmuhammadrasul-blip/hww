@@ -1,0 +1,45 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 100px;
+}
+p{
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+header{
+    background-color: black;
+}
+
+ul{
+    display: flex;
+    gap: 30px;
+
+}
+
+
+h1{
+    font-size: 88px;
+    /* text-align: center; */
+    width: 743px;
+    height: 186px;
+    text-align: center;
+    margin-left: 350px;
+    margin-top: 114px ;
+    margin-bottom: 114px;
+}
+
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-bottom: 102px;
+    
+
+
+}
